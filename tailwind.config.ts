@@ -47,6 +47,12 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        restaurant: {
+          accent: "hsl(var(--restaurant-accent))",
+          success: "hsl(var(--restaurant-success))",
+          warning: "hsl(var(--restaurant-warning))",
+          surface: "hsl(var(--restaurant-surface))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
